@@ -86,12 +86,12 @@ Prevents devops_user from logging in via SSH.
 ![Allow SSH](https://github.com/Yash2526/90DaysOfDevOps/blob/master/2025/linux/Task%20Images/Allow%20SSH.png(1).png)
 
 ## Resources 📚
-- [Linux User Management Guide](https://example.com)
-- [Give SUDO Access to a User using SUDOERS](https://example.com)
-- [Allow Or Deny Selected Users/Groups To Login Via SSH in Linux](https://example.com)
+- [Linux User Management Guide](https://youtu.be/vLuFkesBPcM?si=udKXkNeGTOGeEjhk)
+- [Give SUDO Access to a User using SUDOERS](https://youtu.be/l25ir0p6Lfc?si=nWbA74sz_K6Cy8_C)
+- [Allow Or Deny Selected Users/Groups To Login Via SSH in Linux](https://youtu.be/8Wp-ZbAud88?si=nCTGz5ljvBKeGogJ)
 
 ## Updates 🔗
-📢 Follow my journey: [LinkedIn Profile](https://www.linkedin.com/in/yash2526)
+📢 Follow my journey: [LinkedIn Profile](https://www.linkedin.com/in/yashbharitkar25learns-cloud/)
 
 ✅ **Task Completed!** 🚀
 ```
